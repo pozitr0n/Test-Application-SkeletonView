@@ -12,6 +12,9 @@
 
 3. Using one of them
 `(1) view.showSkeleton()                 // Solid`
+
 `(2) view.showGradientSkeleton()         // Gradient`
+
 `(3) view.showAnimatedSkeleton()         // Solid animated`
+
 `(4) view.showAnimatedGradientSkeleton() // Gradient animated`
